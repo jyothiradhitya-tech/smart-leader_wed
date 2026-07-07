@@ -114,7 +114,8 @@ http://127.0.0.1:5000/
 
 **Authors**
 
-Nali Jothiradhitya
+Nali Jothiradhitya &
+
 Akula Padmanayani
 
 B.Tech (CSE - Artificial Intelligence)
